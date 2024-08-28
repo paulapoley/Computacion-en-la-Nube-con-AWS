@@ -12,6 +12,7 @@ La carpeta /scripts contiene scripts y configuraciones utilizadas durante la pr�
 
 - **[index1.txt](src/index1.txt)** : Pequeña página web para la primera instancia EC2
 - **[index2.txt](src/index2.txt)** : Pequeña página web para la segunda instancia EC2.
+- **[comandos-AWS.txt](src/comandos-AWS.txt)** : Archivo con todos los comandos utilizados en la terminal para configurar la instancia y gestionar archivos.
 
 ### 2.2. Documentación (docs)
 La carpeta /docs incluye la documentación detallada de cada paso:
