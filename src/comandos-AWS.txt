@@ -1,0 +1,19 @@
+“ssh -i /home/practicas/pr3aws/miclave.pem ubuntu@ec2-3-250-13-80.eu-west-1.compute.amazonaws.com” --> Conecta a una instancia EC2 utilizando una clave privada .pem para autenticación SSH.
+
+“cat /proc/cpuinfo” --> Muestra información detallada sobre la CPU de la instancia, incluyendo el modelo, número de núcleos, y otros detalles técnicos.
+
+“lscpu” --> Proporciona información resumida sobre la arquitectura de la CPU, incluyendo el número de núcleos y el modelo del procesador.
+
+“nproc” --> Muestra el número de núcleos de procesamiento disponibles en la máquina.
+
+"sudo apt-get install apache2n" --> Instala el servidor web Apache en la instancia.
+
+“cd /var/www/html” --> Cambia el directorio de trabajo a la carpeta donde Apache guarda los archivos de la página web por defecto. 
+
+“sudo mv index.html index-ant.html” --> Renombra el archivo index.html por defecto en el directorio de Apache a index-ant.html para poder reemplazarlo con una nueva página.
+
+“scp -i "miclave.pem" /home/practicas/pr3aws/index1.html 
+ubuntu@ec2-34-253-184-142.eu-west-1.compute.amazonaws.com:/home/ubuntu/index.html” --> Copia el archivo index1.html desde tu máquina local a la instancia EC2, reemplazando el archivo index.html en el directorio especificado.
+
+"ls-la” --> Lista todos los archivos y directorios en el directorio actual con detalles completos, incluyendo permisos, tamaño, y fechas de modificación.
+
