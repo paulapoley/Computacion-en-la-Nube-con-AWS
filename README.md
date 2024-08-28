@@ -17,7 +17,7 @@ La carpeta /scripts contiene scripts y configuraciones utilizadas durante la pr�
 ### 2.2. Documentaci처n (docs)
 La carpeta /docs incluye la documentaci처n detallada de cada paso:
 
-- **[Computacion-nube-AWS-PPC.pdf](src/Computacion-nube-AWS-PPC.pdf):** Documento que ofrece una explicaci처n general del proyecto y sus componentes.
+- **[Computacion-nube-AWS-PPC.pdf](docs/Computacion-nube-AWS-PPC.pdf):** Documento que ofrece una explicaci처n general del proyecto y sus componentes.
 
 ## 3. Instrucciones de Uso
 ### 3.1. Creaci처n de Cuenta AWS
