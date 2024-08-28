@@ -10,8 +10,8 @@ El repositorio está organizado en varias secciones que corresponden a los pasos
 ### 2.1.  Código Fuente (src)
 La carpeta /scripts contiene scripts y configuraciones utilizadas durante la práctica:
 
--**[index1.txt](src/index1.txt)** : Pequeña página web para la primera instancia EC2
--**[index2.txt](src/index2.txt)** : Pequeña página web para la segunda instancia EC2.
+- **[index1.txt](src/index1.txt)** : Pequeña página web para la primera instancia EC2
+- **[index2.txt](src/index2.txt)** : Pequeña página web para la segunda instancia EC2.
 
 ### 2.2. Documentación (docs)
 La carpeta /docs incluye la documentación detallada de cada paso:
